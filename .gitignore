@@ -1,0 +1,46 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM*/
+[Oo]ut*/
+[Bb]uild*/
+ipch/
+*.obj
+*.iobj
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.pch
+*.exp
+*.lib
+*.dll
+*.exe
+*.log
+
+# CMake (if you add it later)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.dir/
+
+# Crash/coverage/temp
+*.opendb
+*.VC.db
+*.vcxproj.user
+*.tmp
+*.cache
+
+# Misc OS files
+Thumbs.db
+.DS_Store
